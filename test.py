@@ -197,4 +197,4 @@ async def on_message(message):
 
 
 #site web caché : 4522154215325w49575032495456324848493257504932545648324949503255484832494950325548483248.000webhostapp.com
-client.run("OTk4NjE2NTUyMTQ2NDgxMjUz.GlkC46.ZAbiKhaQpOVrdHMvcB-cx29Fkn5wgSmymkPC6A")
+client.run("MY_TOKEN")
